@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5bc9dc-fcb1-4202-a310-05e4c16e36cc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/00_overview.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exploration.ipynb" afterPath="$PROJECT_DIR$/exploration.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/exploration.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="17" />
+              <selected id="9" />
             </state>
           </provider>
         </entry>
@@ -64,6 +63,15 @@
             <path>
               <item name="ReadingInsights" type="b2602c69:ProjectViewProjectNode" />
               <item name="ReadingInsights" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReadingInsights" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="ReadingInsights" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (MusicAnalysis) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -168,7 +176,7 @@
     <entry file="file://$PROJECT_DIR$/exploration.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="17" />
+          <selected id="9" />
         </state>
       </provider>
     </entry>
