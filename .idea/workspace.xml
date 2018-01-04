@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5bc9dc-fcb1-4202-a310-05e4c16e36cc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/exploration.ipynb" afterPath="$PROJECT_DIR$/exploration.ipynb" />
-      <change beforePath="$PROJECT_DIR$/overview.ipynb" afterPath="$PROJECT_DIR$/overview.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,16 +13,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="exploration.ipynb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="exploration.ipynb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exploration.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="20" />
+              <selected id="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="overview.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="overview.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/overview.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
@@ -42,8 +40,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/01_data_preparation.ipynb" />
-        <option value="$PROJECT_DIR$/exploration.ipynb" />
         <option value="$PROJECT_DIR$/overview.ipynb" />
+        <option value="$PROJECT_DIR$/exploration.ipynb" />
       </list>
     </option>
   </component>
@@ -179,14 +177,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exploration.ipynb">
+    <entry file="file://$PROJECT_DIR$/overview.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="20" />
+          <selected id="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/overview.ipynb">
+    <entry file="file://$PROJECT_DIR$/exploration.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="1" />
